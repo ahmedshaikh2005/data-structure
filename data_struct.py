@@ -2,7 +2,6 @@ print("=== Lists ===")
 number_list = [5, 10, 15, 20, 30, 40, 50]
 number_list.append(60)  
 number_list.remove(30) 
-number_list[2] = 35     
 print("List after operations:", number_list)
 number_list.reverse()
 print(number_list)  
